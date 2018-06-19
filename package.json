@@ -1,0 +1,43 @@
+{
+    "name": "unizawgyi-converter",
+    "displayName": "Uni <-> Zawgyi Converter",
+    "description": "Uni <-> Zawgyi Converter Extension for VSCode.",
+    "version": "1.0.0",
+    "publisher": "kaungmyatlwin",
+    "repository" :
+    { "type" : "git"
+    , "url" : "https://github.com/"
+    },
+    "engines": {
+        "vscode": "^1.24.0"
+    },
+    "categories": [
+        "Other"
+    ],
+    "activationEvents": [
+        "onCommand:extension.convertZgUni"
+    ],
+    "main": "./extension",
+    "contributes": {
+        "commands": [
+            {
+                "command": "extension.convertZgUni",
+                "title": "Convert Unicode <=> Zawgyi"
+            }
+        ]
+    },
+    "scripts": {
+        "postinstall": "node ./node_modules/vscode/bin/install",
+        "test": "node ./node_modules/vscode/bin/test"
+    },
+    "devDependencies": {
+        "typescript": "^2.6.1",
+        "vscode": "^1.1.6",
+        "eslint": "^4.11.0",
+        "@types/node": "^7.0.43",
+        "@types/mocha": "^2.2.42"
+    },
+    "dependencies": {
+        "knayi-myscript": "^2.5.1"
+    }
+}
