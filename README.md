@@ -1,6 +1,6 @@
 # unizawgyi-converter README
 
-Unizawgyi-converter is an VSCode extension from (and to) Zawgyi or Unicode. 
+Unizawgyi-converter is an VSCode extension from (and to) Zawgyi or Unicode.
 
 ![extension](https://media.giphy.com/media/3qsl7ZUctgz4gxrTzb/giphy.gif)
 
@@ -34,6 +34,4 @@ Initial release.
 
 MIT
 
-## Want to help?
-
-I need a nice logo for this extension. You can help me by sending logo (128x128) with PNG format to dev.kaungmyatlwin@gmail.com.
+Thanks to Ko [Swan Htet Aung](https://github.com/swanhtet1992) for icon!
