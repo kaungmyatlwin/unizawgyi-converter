@@ -10,7 +10,7 @@ Uses [knayi-myscript](https://github.com/greenlikeorange/knayi-myscript) for fon
 
 ### Installing from Market Place
 
-1. Navigate to [VSCode Market Place](https://marketplace.visualstudio.com/items?itemName=unizawgyi-converter.unizawgyi-converter).
+1. Navigate to [VSCode Market Place](https://marketplace.visualstudio.com/items?itemName=kaungmyatlwin.unizawgyi-converter).
 2. Press on "Install".
 
 ## Usage
