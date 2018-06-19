@@ -2,11 +2,11 @@
     "name": "unizawgyi-converter",
     "displayName": "Uni <-> Zawgyi Converter",
     "description": "Uni <-> Zawgyi Converter Extension for VSCode.",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "publisher": "kaungmyatlwin",
-    "repository" :
-    { "type" : "git"
-    , "url" : "https://github.com/kaungmyatlwin/unizawgyi-converter"
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/kaungmyatlwin/unizawgyi-converter"
     },
     "engines": {
         "vscode": "^1.24.0"
