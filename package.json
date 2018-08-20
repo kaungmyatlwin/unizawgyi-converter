@@ -39,6 +39,6 @@
         "@types/mocha": "^2.2.42"
     },
     "dependencies": {
-        "knayi-myscript": "^2.5.1"
+        "knayi-myscript": "^2.5.9"
     }
 }
