@@ -30,6 +30,10 @@ Uses [knayi-myscript](https://github.com/greenlikeorange/knayi-myscript) for fon
 
 Initial release.
 
+### 1.0.3
+
+Update knayi-myscript dependency
+
 ## License
 
 MIT
