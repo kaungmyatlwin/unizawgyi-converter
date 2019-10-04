@@ -24,7 +24,15 @@
                 "command": "extension.convertZgUni",
                 "title": "Convert Unicode <=> Zawgyi"
             }
-        ]
+        ],
+        "menus": {
+            "editor/context": [
+              {
+                "command": "extension.convertZgUni",
+                "group": "YourGroup@1"
+              }
+            ]
+          }
     },
     "icon": "images/icon.png",
     "scripts": {
