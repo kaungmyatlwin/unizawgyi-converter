@@ -34,6 +34,10 @@ Initial release.
 
 Update knayi-myscript dependency
 
+### 1.1.0
+
+Added a context menu.
+
 ## License
 
 MIT
