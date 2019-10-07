@@ -28,8 +28,9 @@
         "menus": {
             "editor/context": [
               {
+                "when": "editorHasSelection",
                 "command": "extension.convertZgUni",
-                "group": "YourGroup@1"
+                "group": "convertZgUni@1"
               }
             ]
           }
