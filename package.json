@@ -24,7 +24,16 @@
                 "command": "extension.convertZgUni",
                 "title": "Convert Unicode <=> Zawgyi"
             }
-        ]
+        ],
+        "menus": {
+            "editor/context": [
+              {
+                "when": "editorHasSelection",
+                "command": "extension.convertZgUni",
+                "group": "convertZgUni@1"
+              }
+            ]
+          }
     },
     "icon": "images/icon.png",
     "scripts": {
